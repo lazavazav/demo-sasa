@@ -6,5 +6,4 @@
 [dev]
   command = "npm run dev"
   
-  [functions]
-  node_bundler = "esbuild"
+ 

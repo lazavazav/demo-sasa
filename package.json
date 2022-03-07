@@ -12,6 +12,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
     "node-fetch": "^3.2.2",
     "stripe": "^8.207.0"
   }
