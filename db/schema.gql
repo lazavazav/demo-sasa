@@ -1,4 +1,5 @@
 type User {
+  name: String
   netlifyID: ID!
   stripeID: ID!
 }
